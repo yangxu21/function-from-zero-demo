@@ -1,4 +1,6 @@
 # function-from-zero-demo
+[![CI](https://github.com/yangxu21/function-from-zero-demo/actions/workflows/main.yml/badge.svg)](https://github.com/yangxu21/function-from-zero-demo/actions/workflows/main.yml)
+
 
 ## Step 1: configure devlopment env
 
